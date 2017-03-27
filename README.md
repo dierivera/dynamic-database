@@ -9,6 +9,6 @@ You need SQL Server (as long as I remember).
 
 Uploaded to a Windows Azure VM and created a web service to be consumable by an Android/iOS application.
  
-## Credits
+## About this
 
 Developed in the second semester, 2014 for a course of Computer Science carreer at Instituto Tecnologico de Costa Rica.
